@@ -1,0 +1,241 @@
+.nav-container{
+    width: 100%;
+    height: 100%;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+.left-title{
+    width: 100%; 
+    color: #272727; 
+    font-size: 80px; 
+    font-family: Lato; 
+    font-weight: 800; 
+}
+.para{
+    width: 65%; 
+    color: rgba(39, 39, 39, 0.60); 
+    font-size: 18px; 
+    font-family: Lato; 
+    font-weight: 400; 
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    padding-left: 150px;
+}
+.btn{
+    padding: 20px 43px; 
+    background: #E55473; 
+    border-radius: 8px; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 10px; 
+    display: inline-flex;
+}
+.bg-primary{
+    color: white; 
+    font-size: 20px; 
+    font-family: Lato; 
+    font-weight: 700;
+}
+.first-image{
+    width: 635px; 
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 97px;
+    margin-right: 240;
+}
+.banner-title{
+    text-align: center; 
+    color: #272727; 
+    font-size: larger;
+    font-family: Lato; 
+    font-weight: 800;
+}
+.banner-para{
+    width: 100%; 
+    text-align: center; 
+    color: rgba(39, 39, 39, 0.60); 
+    font-size: 18px; 
+    font-family: Lato; 
+    font-weight: 400; 
+    line-height: 30px;
+}
+.banner-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.one{
+    width: 40%; 
+    height: 70%; 
+    background: rgba(167, 33, 98, 0.15); 
+    border-top-left-radius: 300px; 
+    border-top-right-radius: 300px;
+    padding: 60px;
+    padding-bottom: 0px;
+    
+}
+.two{
+    width: 40%; 
+    height: 80%; 
+    background: rgba(5, 150.70, 160, 0.15); 
+    border-top-left-radius: 300px; 
+    border-top-right-radius: 300px;
+    padding: 60px;
+    padding-bottom: 0px;
+    
+}
+.three{
+    width: 40%; 
+    height: 70%; 
+    background: rgba(71, 125, 17, 0.15); 
+    border-top-left-radius: 300px; 
+    border-top-right-radius: 300px;
+    padding: 60px;
+    padding-bottom: 0px;
+    
+}
+.head-one{
+    text-align: center; 
+    color: #272727; 
+    font-size: 24px; 
+    font-family: Lato; 
+    font-weight: 700; 
+    text-decoration: underline; 
+    line-height: 35px;
+}
+.head-two{
+    text-align: center; 
+    color: #272727; 
+    font-size: 24px; 
+    font-family: Lato; 
+    font-weight: 700; 
+    text-decoration: underline; 
+    line-height: 35px;
+}
+.head-three{
+    text-align: center; 
+    color: #272727; 
+    font-size: 24px; 
+    font-family: Lato; 
+    font-weight: 700; 
+    text-decoration: underline; 
+    line-height: 35px;
+}
+.hot-deal{
+    display: flex;
+}
+.deal-title{
+   color: #272727; 
+   font-size: 40px; 
+   font-family: Lato; 
+   font-weight: 800; 
+}
+.primary{
+    color: #E55473;
+}
+.deal-para{
+    width: 63%; 
+    text-align: center; 
+    color: rgba(39, 39, 39, 0.60); 
+    font-size: 18px; 
+    font-family: Lato; 
+    font-weight: 400; 
+    line-height: 30px;
+    padding-left: 20%;
+}
+.deal-des{
+   margin: auto;
+    text-align: center;
+}
+.hot-deal{
+    width: 100%; 
+    height: 100%; 
+    background: rgba(229, 84, 115, 0.05); 
+    border-radius: 8px;
+}
+.deal-img{
+    width: 40%; 
+    height: 40%;
+    padding-right: 20px;
+}
+.insta-des{
+    text-align: center;
+}
+.insta-title{
+    text-align: center; 
+    color: #272727; 
+    font-size: 40px; 
+    font-family: Lato; 
+    font-weight: 80px;
+}
+.insta-para{
+    width: 100%; 
+    text-align: center; 
+    color: rgba(108, 99, 99, 0.852);
+    font-size: 18px; 
+    font-family: Lato; 
+    font-weight: 400; 
+    line-height: 30px; 
+    margin-top: 24px;
+}
+.insta-images{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.form{
+    background-image: url(flower-shop-assignment-main/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70%; 
+    height: 100%; 
+    border-radius: 8px;
+    gap: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+.form-title{
+    text-align: center; 
+    color: #272727; 
+    font-size: 40px; 
+    font-family: Lato; 
+    font-weight: 800; 
+}
+.form-para{
+    text-align: center; 
+    color: rgba(39, 39, 39, 0.60); 
+    font-size: 18px; 
+    font-family: Lato; 
+    font-weight: 400; 
+    line-height: 30px; 
+}
+.blanks{
+    display: flex;
+    gap: 20px;
+}
+.footer{
+    text-align: center; 
+    font-size: 16px; 
+    font-family: Lato; 
+    font-weight: 400;
+    height: 40vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.primary{
+    color: #E55473;
+}
+.pp{
+    color: rgba(255, 255, 255, 0.90);;
+}
